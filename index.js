@@ -25,6 +25,7 @@ module.exports = {
    * @return {String}
    */
   hello: function(value) {
+	  //
     if (!value) {
       return 'hello';
     }
